@@ -7,7 +7,7 @@ const TOTAL_REWARD = 559.51;
 const NUM_QUESTIONS = 11;
 
 // Create audio element for money sound
-const moneySound = new Audio('https://spikebet.cloud/eric/media/dinheiro.mp3');
+const moneySound = new Audio('https://darksound-dinheiro.netlify.app/cashier-quotka-chingquot-sound-effect-129698(1).mp3');
 
 // Generate random reward distribution that sums to exactly TOTAL_REWARD
 function generateRewards() {

@@ -24,7 +24,7 @@ const pages = {
   top: 100px;
   width: 60px; /* ajuste conforme necessário */
   height: auto;
-" src="data:image/webp;base64,UklGRsoEAABXRUJQVlA4WAoAAAAQAAAARAAARAAAQUxQSFMBAAABgFZtb93mgyAIhhAIZrAySBi0DGIGDYOUQcegEAzhgyAI6m65SDpnfyNiAnCiXK5rp5qZ8vVsVeC/zt3296W6kpl2NMfiRWa1U9fiQWa102c5rdI8cjxH7ub1LicUml+WwwY1zxwOGtWcj4eM5n88YLCAOuwqjGBadggtJmXb3aLeN00Wt24QBqL8NVvk9kex0Cq/PWJZ+6VYcJUfUzRrPxiOAKrFr8CSQAN6Ah1iGUpN4aOlcHumsL5S6EyBmoLaf1NTUKbAnsLrkcLnLYV2SaFKCoKeQAdaAgtQE6gAGI4A0MKNP0SjlR9owVb8Khqr/IYWquFPYSDKX6iBRmxdwizYLAxC2YaiIViwd9AIA/ZPASYcOXnTCccOdKUDji50xILjZXGzCE6d6IIVZ0s7T5vAYXmco03gtEw8jE3guS79gN4q/EttzxfVzJR9vV4EJwIAVlA4IFADAADwEwCdASpFAEUAPmEmj0UkIiEXqV8QQAYEtgMUAHC9893bsvHe8n+JOdtQ/2IYwPUh5gH6gdJHzAedF6QPQA/s3nR+wl6AHll/tl8H/7l/t57SmaxMYd+VVVL684M8CYEn/o1xO60ZhVKHltxUNhn8rzVtJGZSblQZaPUE/nf8Pt1fkj3cMQIPV5chiQp9uXvqmI+qV0ZJpGf309NNLuh3cF6lqrofueAA/v0mF/zAc/9Qnc+HGDn+74vlB7EB/1a9OXZVorG6i5GS5hj2/YAeLy5C/ear4gdei5jKN1hEpCPZ3r5BcQdIPOpWXjHv85ZEwa3oq4BV1Lc1NAQWDif9yQonPNxEemllfByTwNWhPwJoOCqkIH0AxX+5X9hO19z/gplweacglmkI5vlyPJXboeobbOpH/SsRC47RdBt0+M35fRXK96F0qb/ofomDi3LoP0f7HuO4xalCPjBY+Wy8/f4np0XTPPjTntp6antYXmN3gKh2hpKGYt2GKWeGF8mB9G8QzzfvqAVyBIsvdPzpEWGjV2zcQNFVeBXD8A6N6LsqJDoFRu88l1344+4EeIsSGK376kLV/5EWtCoI9ZFeb0jZgvyXDakfpCFJZstDFWzwiUHeLdnTSoiBmVjzfQHKD6un0J6UXYbFIZkPpPhj5MEMCL82ZarM74xm2QBejkrb4RziSh40BAa/3MZWh/C0DYsLLF6DnvUlXQSMUwbfkqCHwi/DnnAPxO+HatouzWQfUnk/b48HrOYBdRolv4OEw6GbPXWLZE27jXekXAtwuvthFGhXHAO8oD/gmY5waTS1l2MGc4deMu5HdZt1cPzJ3CmSd8aG6op7MbGnKDJEvs2HngW2Z9o6qSkELS1BiHwGdzCeKLXQR0rXYU8XCQwqNdOEJDn4VdrMFSqanQ11X82FuFdLHe8vVgIIpH+jD214ymw0FY8DEUYaRS6/muA5RiAaEx/FsH//+5Vrz8aZcl9GvJc2GpIx/AvIJ/v/hH2AnRBHfbtNWzzv14DVkvF5qO/1zT9aX9f8DTeNTXbsGWC4EkOY4yMTeeNv2+PB6zmAXLPTB/wcSfmPE+vorwPijkk/r8P//3DYvNoetnlKkFIkP+SnPGkRjo1YAAAAAA==" alt="ícone">
+" src="https://spikebet.cloud/eric/tiktoksaque/images/Group-3-1.png.webp" alt="ícone">
     </div>
       
       <div class="last-rewards">
@@ -63,7 +63,32 @@ const pages = {
         </p>
       </div>
       
- 
+      <div class="invite-section">
+        <div class="invite-period">1 de jan - 31 fev</div>
+        <h2>Convide amigos para ganhar até R$2.125</h2>
+        <div class="invite-steps">Convidar. Ganhar recompensas. Repetir!</div>
+        
+        <div class="reward-circles">
+          <div class="reward-circle active">
+            <div class="circle-amount">R$215</div>
+          </div>
+          <div class="reward-circle">
+            <div class="circle-amount">R$215</div>
+          </div>
+          <div class="reward-circle">
+            <div class="circle-amount">R$215</div>
+          </div>
+          <div class="reward-circle">
+            <div class="circle-amount">R$215</div>
+          </div>
+        </div>
+        
+        <button class="invite-btn">CONVIDAR AMIGOS</button>
+        <div class="invite-code">
+          Código de convite: <span>24995543</span>
+          <button class="copy-btn">📋</button>
+        </div>
+      </div>
       
       <div class="help-text">
         <h3>Como retirar o dinheiro?</h3>
@@ -75,7 +100,7 @@ const pages = {
       </div>
     </div>
   `,
-
+  
   registration: `
     <div class="registration-page">
       <div class="registration-content">
@@ -133,7 +158,7 @@ const pages = {
       </div>
     </div>
   `,
-
+  
   video: `
   <div class="video-page">
   <div class="video-header">
@@ -158,40 +183,7 @@ const pages = {
   </h1>
   <p class="video-instruction">Veja como liberar seu saque assistindo ao vídeo.</p>
   
-  <style>
-  .video-container {
-    border: 2px solid #ff2c55;
-    border-radius: 8px;
-    overflow: hidden;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  }
-
-  .video-container video {
-    width: 100%;
-    height: auto;
-    display: block;
-    background-color: #000; /* previne fundo branco durante o carregamento */
-    transition: opacity 0.3s ease-in-out;
-    border-radius: 8px;
-  }
-</style>
-
-<div class="video-container">
-  <video
-    id="tutorial-video"
-    controls
-    preload="metadata"
-    poster="https://mundoprimeiroglobal.shop/pronto/pesquisa/vsl/vsl-tiktok.mp4"
-    playsinline
-  >
-    <source src="https://mundoprimeiroglobal.shop/pronto/pesquisa/vsl/vsl-tiktok.mp4" type="video/mp4">
-    Seu navegador não suporta a reprodução de vídeo.
-  </video>
-</div>
-
+  <div style="padding:178.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1097000892?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TikTok Quiz"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
   
   <button class="unlock-btn"">
     DESBLOQUEAR AGORA
@@ -206,21 +198,21 @@ let currentPage = null;
 // Initialize page navigation
 function initializePages() {
   // Add click handler for withdraw button
-
+  
 }
 
 // Show specific page
 function showPage(pageName) {
   const container = document.querySelector('.app-container');
-
+  
   // Save current content if it's the first navigation
   if (!currentPage) {
     currentPage = container.innerHTML;
   }
-
+  
   // Update container with new page content
   container.innerHTML = pages[pageName];
-
+  
   // Add page-specific event listeners
   if (pageName === 'withdraw') {
     setupWithdrawPage();
@@ -239,7 +231,7 @@ function setupWithdrawPage() {
     container.innerHTML = currentPage;
     initializePages();
   });
-
+  
   // Amount selection
   document.querySelectorAll('.amount-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -247,7 +239,7 @@ function setupWithdrawPage() {
       btn.classList.add('selected');
     });
   });
-
+  
   // Submit button
   document.querySelector('.withdraw-submit-btn').addEventListener('click', () => {
     showPage('registration');
@@ -264,7 +256,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://compraseguraonline.org.ua/c/84bc3b15a2';
+    window.location.href = 'https://go.goatpayments.com.br/omyrmxtp3c';
   });
 
 }
