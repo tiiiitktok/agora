@@ -256,7 +256,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.goatpayments.com.br/omyrmxtp3c';
+    window.location.href = 'https://compraonlineseguura.com/c/84bc3b15a2';
   });
 
 }
